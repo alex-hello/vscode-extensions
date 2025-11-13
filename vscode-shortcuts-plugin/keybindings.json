@@ -1157,7 +1157,7 @@
   },
   {
     "key": "ctrl+shift+k",
-    "mac": "cmd+alt+k",
+    "mac": "cmd+shift+k",
     "command": "git.pushTo",
     "when": "!inDebugMode && !terminalFocus",
     "intellij": "Push commits to VCS"
