@@ -99,6 +99,6 @@
   "editor.lineHeight": 22,
   "files.autoSave": "onWindowChange",
   "workbench.tree.expandMode": "doubleClick",
-  "editor.acceptSuggestionOnEnter": "off",
+  "editor.acceptSuggestionOnEnter": "smart",
   "editor.inlineSuggest.edits.allowCodeShifting": "horizontal"
 }
