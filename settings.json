@@ -96,5 +96,9 @@
   },
   "editor.fontSize": 13.5,
   "editor.fontWeight": "500",
-  "editor.lineHeight": 22
+  "editor.lineHeight": 22,
+  "files.autoSave": "onWindowChange",
+  "workbench.tree.expandMode": "doubleClick",
+  "editor.acceptSuggestionOnEnter": "off",
+  "editor.inlineSuggest.edits.allowCodeShifting": "horizontal"
 }
